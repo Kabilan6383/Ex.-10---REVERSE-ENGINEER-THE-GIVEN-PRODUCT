@@ -1,6 +1,4 @@
-# Ex.   - REVERSE ENGINEER THE GIVEN PRODUCT
-
-### DATE: 
+# Ex. 4  - REVERSE ENGINEER THE GIVEN PRODUCT
 
 ## AIM: 
 ### To reverse engineering the product and prototyping the same in 3D printer.
@@ -31,12 +29,18 @@
   ###   ●	Open the file from the USB storage and select the Print option.
 
 ## Input:
+![Screenshot 2025-05-28 002659](https://github.com/user-attachments/assets/2570e896-2cde-41e0-af87-90dfb825774b)
+
+
+
 
 ### Output:
+![Screenshot 2025-05-28 002707](https://github.com/user-attachments/assets/bd2a8e8b-cedd-4259-9a89-a80017fec3eb)
 
 
-### Name:
-### Register Number:
+
+### Name:KABILAN.P
+### Register Number: 212224040145
 
 ## RESULT:
 ###   Thus the given product is reverse engineered and prototyped using 3D Printer.
